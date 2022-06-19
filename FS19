@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>SWJW's Studio</title>
+		
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap" rel="stylesheet">
+		
+		
+		<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap" rel="stylesheet">
+    </head>
+	<style>
+	body{
+	font-family: 'Nunito Sans', sans-serif;
+	background-color:rgb(0,0,0);
+	color:rgb(255,255,255);
+	text-align:center;
+	}
+
+	h1{
+	font-family: 'Press Start 2P', cursive;
+	background: rgb(255, 105, 0);
+	padding:20px;
+	border-radius:50px;
+	box-shadow: inset 0 0 0.5em 0 rgb(255, 105, 0), 0 0 0.5em 0 rgb(255, 105, 0);
+	}
+	
+	#pfp{
+	margin:40px;
+	border-radius:100%;
+	width: 20%;
+	box-shadow: inset 0 0 0.5em 0 rgb(255, 105, 0), 0 0 1em 0 rgb(255, 105, 0);
+	}
+	
+ul {
+
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+  font-family: 'Comfortaa', cursive;
+  	padding:10px;
+	border-radius:50px;
+	box-shadow: inset 0 0 0.5em 0 rgb(105, 105, 105), 0 0 0.5em 0 rgb(105, 105, 105);
+}
+
+li {
+  display: inline;
+padding:50px;
+}
+
+li a {
+  display: inline;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111111;
+  border-radius:50px;
+  box-shadow: inset 0 0 0.5em 0 rgb(105, 105, 105), 0 0 0.5em 0 rgb(105, 105, 105);
+  
+}
+
+#video{
+	margin:30px;
+	border-radius:10px;
+}
+</style>
+</head>
+<body>
+	
+	</style>
+    <body>
+	
+	
+	
+	<a href= "https://scratch.mit.edu/users/swjw7594" target= "_blank"><img id= "pfp"src= "https://github.com/SWJW7594/photos/blob/main/Screenshot%202022-06-04%20180021.png?raw=true" alt= "pfp"></a>
+	<h1>SWJW7594</h1>
+	
+	
+
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#minecraft">Minecraft</a></li>
+  <li><a href="#farming">Farming Simulator 19</a></li>
+  <li><a href="#battlefront">Battlefront</a></li>
+  <li><a href="#jwe">Jurassic World Evolution</a></li>
+
+</ul>
+	
+	<iframe id="video" width="420" height="315"
+src="https://www.youtube.com/embed/9cuNJCWE9LU">
+</iframe>
+	
+    </body>
+</html>
