@@ -89,11 +89,11 @@ li a:hover {
 
 
 <ul>
-  <li><a href="#home">Home</a></li>
-  <li><a href="#minecraft">Minecraft</a></li>
-  <li><a href="#farming">Farming Simulator 19</a></li>
-  <li><a href="#battlefront">Battlefront</a></li>
-  <li><a href="#jwe">Jurassic World Evolution</a></li>
+  <li><a href="index.htm">Home</a></li>
+  <li><a href="minecraft.htm">Minecraft</a></li>
+  <li><a href="fs19.htm">Farming Simulator 19</a></li>
+  <li><a href="battlefront.htm">Battlefront</a></li>
+  <li><a href="jwe.htm">Jurassic World Evolution</a></li>
 
 </ul>
 	
