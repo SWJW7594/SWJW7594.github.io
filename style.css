@@ -1,32 +1,25 @@
-
-	body{
+body{
 	font-family: 'Nunito Sans', sans-serif;
 	background-color:rgb(0,0,0);
 	color:rgb(255,255,255);
 	text-align:center;
 	}
-:root {
-  --clr-theme: rgb(6, 2, 245);
-}
+
 	h1{
 	font-family: 'Press Start 2P', cursive;
-	background: rgb(66, 245, 188);
+	background: rgb(255, 105, 0);
 	padding:20px;
 	border-radius:50px;
-	box-shadow: inset 0 0 0.5em 0 --clr-theme, 0 0 0.5em 0 --clr-theme;
+	box-shadow: inset 0 0 0.5em 0 rgb(66, 245, 188), 0 0 0.5em 0 rgb(66, 245, 188);
 	}
-
+	
 	#pfp{
 	margin:40px;
 	border-radius:100%;
 	width: 20%;
-	box-shadow: inset 0 0 0.5em 0 --clr-theme, 0 0 1em 0 --clr-theme;
+	box-shadow: inset 0 0 0.5em 0 rgb(66, 245, 188), 0 0 1em 0 rgb(66, 245, 188);
 	}
-
-
-
-
-
+	
 ul {
 
   list-style-type: none;
@@ -57,18 +50,13 @@ li a:hover {
   background-color: #111111;
   border-radius:50px;
   box-shadow: inset 0 0 0.5em 0 rgb(105, 105, 105), 0 0 0.5em 0 rgb(105, 105, 105);
-
+  
 }
-
-#video{
-	margin:30px;
-	border-radius:10px;
-}
-		hr{
+		
+	hr{
 	margin-top:10%;
 	margin-bottom:2%;
 }
-
-		p a:visited{
+p a:visited{
 	color:blue;
 }
